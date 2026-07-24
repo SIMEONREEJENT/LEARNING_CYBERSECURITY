@@ -109,3 +109,4 @@ These state-sponsored attackers engage in cyber warfare, military espionage, int
 * The 2022 Ukraine Electric Power Attack, attributed to the Russian state-sponsored APT known as "Sandworm Team," which specifically targeted and disrupted critical energy infrastructure.
 * The SolarWinds and Hafnium supply-chain compromises, which allowed state actors to inject malicious updates and breach thousands of corporate and government networks globally.
 * Operations by "MuddyWater," an Iranian APT group documented targeting telecommunications, government, and oil companies across the Middle East, Europe, and North America.
+
