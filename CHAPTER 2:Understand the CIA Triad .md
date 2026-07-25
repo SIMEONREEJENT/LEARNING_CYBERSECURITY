@@ -115,3 +115,5 @@ To guarantee that authorized users can consistently access computing systems and
 *   ⚡ **Backups and Disaster Recovery:** Maintaining regular, encrypted backups of critical data (which helps recover from ransomware attacks that lock production data) and establishing comprehensive Business Continuity and Disaster Recovery (DR) plans.
 *   ⚡ **Power Resiliency:** Installing Uninterruptible Power Supplies (UPS) and backup generators to keep data centers and critical systems running smoothly during physical power outages.
 *   ⚡ **Software Deployment Testing:** Using safe release techniques—such as "canary deployments" (releasing updates to a tiny fraction of users first) or sandbox testing—to catch software bugs before they can cause massive global outages, such as the July 2024 CrowdStrike incident.
+
+*   <img width="1222" height="687" alt="Screenshot 2026-07-25 at 11 07 35 AM" src="https://github.com/user-attachments/assets/09827964-05f2-4666-b8d9-2c8e26f61891" />
