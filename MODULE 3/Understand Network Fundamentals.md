@@ -2,7 +2,7 @@
 
 Welcome to the **Computer Networking Fundamentals Guide**! This comprehensive documentation is designed specifically for beginners who want to understand the core paradigms, architectural models, physical infrastructure, and transmission dynamics of modern computer networks.
 
-This guide is structured to be clean, coherent, and fully formatted in Markdown, making it ready to be committed directly as a `README.md` or a documentation file in your GitHub repository.
+
 
 ---
 
